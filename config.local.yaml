@@ -84,15 +84,12 @@ info:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
   version: 1.0.0
-scope:
-  - name
-  - email
-  - mobile
+scope: name email mobile
 ws:
   url: wss://aliconnect.nl:444
 client:
   servers:
-    - url: https://schiphol.aliconnect.nl/api
+    - url: https://schiphol.aliconnect.nl/dms/v1.0
 ref:
   home: //github.com/schiphol-nl/schiphol-nl.github.io/wiki/Home
   home: //schiphol.aliconnect.nl/wiki
