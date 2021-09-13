@@ -1,3 +1,3 @@
-# Schiphol-nl README
+# Schiphol NL
 
-Start de applicatie op [schiphol-nl.github.io](//schiphol-nl.github.io/)
+1. Applicatie op [ObjectManager](//schiphol-nl.github.io/om/)
